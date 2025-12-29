@@ -21,9 +21,13 @@ Unlike integrations requiring manual soldering, this project utilizes the **Ezur
 * **Optimization:** Binary image reduction for <1MB Flash targets.
 
 ## 📂 Documentation
-The full application note and optimized source code are available in the `docs` folder.
+The full application note is hosted in this repository and also published online.
 
-### [👉 Read the Full Integration Guide](docs/IF573_NUCLEO_H723ZG_AppNote.md)
+### 🌐 [View the Official Published Guide](https://lairdcp.github.io/guides/IF573-NUCLEO-H723ZG/1.0/IF573_NUCLEO_H723ZG_AppNote.html)
+
+You can also view the local version in the `docs` folder:
+
+### [👉 Read the Local Integration Guide](docs/IF573_NUCLEO_H723ZG_AppNote.md)
 
 * **Hardware Setup:** Utilizing the Nucleo Adapter Card for instant connectivity.
 * **Firmware Porting:** Migrating the AIROC stack to the H723ZG.
